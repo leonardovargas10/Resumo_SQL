@@ -1,7 +1,7 @@
 ﻿# Resumo de SQL
 
 <p align="center">
-  <img src = './img01.png' width = '50%'>
+  <img src = './im01.png' width = '50%'>
 </p>
 
 ## Justificativa e Objetivos
